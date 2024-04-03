@@ -1,0 +1,53 @@
+.sidebar {
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #333;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.sidebar a {
+    padding: 10px 20px;
+    display: block;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+
+.sidebar img {
+    width: 80px;
+    margin-bottom: 20px;
+    color: transparent;
+}
+
+.sidebar a:hover {
+    background-color: #555;
+}
+
+.content {
+    margin-left: 220px;
+    padding: 20px;
+}
+
+h1 {
+    text-align: left;
+    margin-left: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    text-align: left;
+    background-color: #f2f2f2;
+}
