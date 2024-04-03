@@ -1,6 +1,6 @@
-# Controle-de-estoque
+# MetalTracker
 
-Arquitetura inicial de desenvolvimento 
+#Arquitetura inicial de desenvolvimento 
 
 ├───static/
 │   └───style.css
